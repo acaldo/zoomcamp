@@ -1,0 +1,6 @@
+venv
+ny_taxi_postgres_data
+*.csv
+terraform-provider-google_v5.6.0_x5
+*.terraform*
+*.tfstate*
